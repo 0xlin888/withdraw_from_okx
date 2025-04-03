@@ -52,7 +52,7 @@ pip install requests pandas openpyxl
 
 ## 🔑 4. 获取 OKX API Key
 
-![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/1.png?raw=true)
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/2.png?raw=true)
 
 1. 登录 OKX 账户。
 2. 进入  [API](https://www.okx.com/zh-hans/account/my-api)  页面。
@@ -64,7 +64,7 @@ pip install requests pandas openpyxl
 ---
 ## 🛡️ 5. 提现地址加入白名单
 
-![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/2.png?raw=true)
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/1.png?raw=true)
 
 1. 登录 OKX 账户。
 3. 进入  [地址簿](https://www.okx.com/zh-hans/balance/withdrawal-address)  页面。
