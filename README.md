@@ -1,5 +1,8 @@
 # OKX 自动提现脚本 - 小白教程
 📢 我的推特
+
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/x.png?raw=true)
+
 🔗[@0x零](https://x.com/0xlin888) 求个关注！如果有任何使用问题，可以通过推特联系我。
 ## 📌 1. 什么是这个脚本？
 这个 Python 脚本可以帮助你自动从 OKX 提现任意的加密货币（前提是OKX支持API提现的币种）到你的钱包地址。它会从 Excel 文件中读取地址和金额，并按照设置的随机时间间隔自动执行提现操作。
@@ -49,6 +52,8 @@ pip install requests pandas openpyxl
 
 ## 🔑 4. 获取 OKX API Key
 
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/1.png?raw=true)
+
 1. 登录 OKX 账户。
 2. 进入  [API](https://www.okx.com/zh-hans/account/my-api)  页面。
 3. 创建新的 API 密钥，确保权限包含“提现”权限。
@@ -58,6 +63,8 @@ pip install requests pandas openpyxl
 
 ---
 ## 🛡️ 5. 提现地址加入白名单
+
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/2.png?raw=true)
 
 1. 登录 OKX 账户。
 3. 进入  [地址簿](https://www.okx.com/zh-hans/balance/withdrawal-address)  页面。
@@ -99,6 +106,8 @@ currency_code = "SUI"
 ---
 
 ## 📜 8. 运行提现脚本
+
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/3.png?raw=true)
 
 修改withdraw.py配置，以SUI为例
 
