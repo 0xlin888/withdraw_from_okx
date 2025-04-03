@@ -74,6 +74,8 @@ pip install requests pandas openpyxl
 
 ## 📊 6. 准备 Excel 文件
 
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/4.png?raw=true)
+
 创建一个 Excel 文件，文件格式如下：
 
 | address           | amount    | status   |
@@ -88,6 +90,8 @@ pip install requests pandas openpyxl
 
 ---
 ## 🪙 7. 查询币种信息
+
+![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/5.png?raw=true)
 
 先在info.py中大概第60行修改要查询的币种，如查询SUI
 ```sh
