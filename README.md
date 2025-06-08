@@ -1,9 +1,6 @@
 # OKX 自动提现脚本 - 小白教程
 📢 我的推特
-
-![](https://raw.githubusercontent.com/0xlin888/withdraw_from_okx/refs/heads/main/x.png?raw=true)
-
-🔗[@0x零](https://x.com/0xlin888) 求个关注！如果有任何使用问题，可以通过推特联系我。
+🔗[@0x零](https://x.com/0xlin168) 求个关注！如果有任何使用问题，可以通过推特联系我。
 ## 📌 1. 什么是这个脚本？
 这个 Python 脚本可以帮助你自动从 OKX 提现任意的加密货币（前提是OKX支持API提现的币种）到你的钱包地址。它会从 Excel 文件中读取地址和金额，并按照设置的随机时间间隔自动执行提现操作。
 
